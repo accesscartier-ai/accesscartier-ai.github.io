@@ -107,7 +107,7 @@
     { label: "Projects", hint: "section", href: "#projects" },
     { label: "Resume", hint: "section", href: "#resume" },
     { label: "Contact", hint: "section", href: "#contact" },
-    { label: "Download CV", hint: "pdf", href: "assets/Ayanda_Ngcaku_Professional_CV.pdf", download: true },
+    { label: "Download CV", hint: "pdf", href: "Ayanda_Ngcaku_Professional_CV.pdf", download: true },
     { label: "Open GitHub", hint: "↗ external", href: "https://github.com/accesscartier-ai", external: true },
     { label: "Open LinkedIn", hint: "↗ external", href: "https://www.linkedin.com/in/ayanda-ngcaku-970112363/", external: true },
     { label: "Email Ayanda", hint: "mailto", href: "mailto:ayandangcaku12@gmail.com" },
